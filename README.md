@@ -6,7 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ehtashamnaqui&label=Profile%20views&color=0e75b6&style=flat" alt="ehtashamnaqui" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ehtashamnaqui" alt="ehtashamnaqui" /></a> </p>
 
 - 🔭 I’m currently working on [a React App](https://github.com/EhtashamNaqui/EhtashamNaqui-Wasserstoff-task)
 
@@ -19,6 +18,8 @@
 - 📫 How to reach me **ehtashamnaquiwork@gmail.com**
 
 - 📄 Know about my experiences [https://ehtashamnaqui.github.io/files/resume.pdf](https://ehtashamnaqui.github.io/files/resume.pdf)
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ehtashamnaqui" alt="ehtashamnaqui" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
